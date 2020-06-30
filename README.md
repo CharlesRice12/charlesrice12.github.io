@@ -1,7 +1,3 @@
-# charlesrice12.github.io
-Repo for nomen storefront
-
-
 <!DOCTYPE html>
 <head>
   <meta charset = "utf-8">
